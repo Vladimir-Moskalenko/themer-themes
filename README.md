@@ -1,5 +1,4 @@
 # Themer
-![Themer icon](icon.png)
 An app to customize macOS themes. 
 
 ## Installation
