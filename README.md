@@ -1,1 +1,7 @@
-WIP
+# Themer
+![Themer icon](icon.png)
+An app to customize macOS themes. 
+
+## Installation
+To install Themer, head to the "Releases" tab and download the latest `Themer.zip`. 
+Themer (and all currently available themes) currently support macOS Monterey and higher. Do not attempt to install the themes on any other version, as that may break your system (in that case, reinstall macOS from recovery)
