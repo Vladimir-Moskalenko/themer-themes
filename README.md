@@ -1,5 +1,5 @@
 # Themer
-![Themer icon](https://github.com/Vladimir-Moskalenko/themer-themes/raw/v1.0.0/icon.png =128x128)
+![Themer icon](icon.png)
 An app to customize macOS themes. 
 
 ## Installation
